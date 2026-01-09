@@ -54,3 +54,21 @@ Clean Dark UI
 ---
 
 ## 🧩 Project Structure
+review-reply-ai/
+│── app.py # Home page
+│── llm_client.py # Gemini client
+│── prompts.py # Prompt builder
+│── requirements.txt # Dependencies
+│── streamlit/ # Theme config
+│── pages/
+│ ├── 1_AI_Reply.py
+│ └── 2_Batch_Mode.py
+└── .gitignore
+
+📬 Contact
+
+Built by Salo
+
+LinkedIn:www.linkedin.com/in/salman-salo8
+
+GitHub: https://github.com/salo-404
