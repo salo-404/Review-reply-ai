@@ -77,5 +77,6 @@ with c3:
 st.write("")
 st.info("Open **AI Reply** or **Batch Mode** from the sidebar 👈")
 
-st.write("")
-st.info("Use the sidebar to open **AI Reply** or **Batch Mode** 👈")
+
+
+
