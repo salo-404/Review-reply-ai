@@ -76,12 +76,6 @@ with c3:
 
 st.write("")
 st.info("Open **AI Reply** or **Batch Mode** from the sidebar 👈")
-st.write("")  # space
 
-nav1, nav2 = st.columns(2)
-
-with nav1:
-    st.page_link("pages/1_AI_Reply.py", label="🚀 Go to AI Reply", use_container_width=True)
-
-with nav2:
-    st.page_link("pages/2_Batch_Mode.py", label="📦 Go to Batch Mode", use_container_width=True)
+st.write("")
+st.info("Use the sidebar to open **AI Reply** or **Batch Mode** 👈")
